@@ -1,1 +1,4 @@
 body { font-family: Arial; }
+section { padding: 20px; }
+section h1 { font-size: 28px; }
+section p { font-size: 18px; }
